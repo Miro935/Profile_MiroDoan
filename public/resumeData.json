@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Miro Doan",
+    "description": "Going through a Covid pandemic, I have a deeper feeling about life is going very short. Thus I challenge myself with two areas that I always felt I could not achieve before is that learning Chinese and becoming a Web Developer",
+    "image": "profilepic.jpg",
+    "bio": "Discovering myself through different roles in international environments, I would like to work in a company to applies technology and bring the best experience for the customer, especially for the young generation. I have got my best self to work as a motivated and goal-oriented professional. I am keen on learning new technologies and doing challenging tasks. I am very open-minded and have the skills to work on international projects. I am actively seeking a position remote in a strong and expanding company that appreciates the dedication, hard work, passions, and embraces positive change, and personal growth.",
+    "contactmessage": "Hi, I am looking for a very fresh position in Frontend ReactJs and relevant. Especially, I would love to join a company with the model of remote working. Thank you in advance for any connections, advice, or opportunities you can offer. Hope to get your contact soon.",
+    "email": "mirohuyen5335@gmail.com",
+    "phone": "+84 86 550 2848",
+    "address": {
+      "city": "Dalat City, Vietnam"
+    },
+    "social": [
+      {
+        "name": "medium",
+        "url": "https://medium.com/@mirohuyen5335",
+        "className": "fa fa-medium"
+      },
+
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/miro_5335",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/miro-doan-285b67222/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "skype",
+        "url": "https://join.skype.com/invite/bHOFN31i5lVE",
+        "className": "fa fa-skype"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Miro935",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Banking Academy of Vietnam",
+        "degree": "Bachelor of Banking and Finance",
+        "graduated": "April 2017",
+        "description": "It gave me the knowledge to see things from an economic point of view. I strongly believe that the knowledge that I have been fortunate enough to learn will always accompany me in many different ways."
+      }
+    ],
+    "work": [
+      {
+        "company": "Challenge myself to learn new skills from nothing",
+        "title": "Learner",
+        "years": "October 2021 - Present",
+        "description": "Firstly, studying Chinese (with extensive grammar and get to know about Chinese culture). Secondly, self-learning Web Developer (HTML, CSS, JAVASCRIPT, REACTJS)"
+      },
+      {
+        "company": "Work for companies in the service industry",
+        "title": "Customer Service",
+        "years": "May 2017 -  Sep 2021",
+        "description": "Be a leader of the whole team of 20 members. Always try to help other members of the team without any responsibilities. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+
+      {
+        "name": "HTML5",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Weather App",
+        "category": "This application to search the weather of each city that you enter.",
+        "image": "weather-app.jpg",
+        "url": "https://miro935.github.io/Weather-App/"
+      },
+
+      {
+        "title": "Expanding Cards",
+        "category": "Website to display images.",
+        "image": "expanding-cards.jpg",
+        "url": "https://miro935.github.io/Project01_Expanding-Cards/"
+      },
+      {
+        "title": "Travel With Me",
+        "category": "Apply HTML and CSS knowledge.",
+        "image": "travel-with-me.jpg",
+        "url": "https://miro935.github.io/Trave-With-Me-_-Page01/"
+      },
+      {
+        "title": "Miro ReactJs Project",
+        "category": "The project applies knowledge of reactjs.",
+        "image": "miro-reactjs.jpg",
+        "url": "https://miro-reactjs.vercel.app/products"
+      }
+    ]
+  },
+  "personal": {
+    "personal": [
+      {
+        "text": "The best way to find out if you can trust somebody is to trust them.",
+        "user": "Ernest Hemingway"
+      },
+      {
+        "text": "I am 29 years old, the age that most people probably think is very difficult to learn something and start a new job. Yeah, I am not an expert, much less a person with special abilities. I just want to be here and start sharing about the journey of an ordinary person, someone who longs to be able to breathe in the alpine air or hear the waves crashing on the ocean right next to her desk.",
+        "user": "Miro Doan"
+      }
+    ]
+  }
+}
