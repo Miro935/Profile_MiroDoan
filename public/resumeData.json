@@ -4,11 +4,11 @@
     "description": "Going through a Covid pandemic, I have a deeper feeling about life is going very short. Thus I challenge myself with two areas that I always felt I could not achieve before is that learning Chinese and becoming a Web Developer",
     "image": "profilepic.jpg",
     "bio": "Discovering myself through different roles in international environments, I would like to work in a company to applies technology and bring the best experience for the customer, especially for the young generation. I have got my best self to work as a motivated and goal-oriented professional. I am keen on learning new technologies and doing challenging tasks. I am very open-minded and have the skills to work on international projects. I am actively seeking a position remote in a strong and expanding company that appreciates the dedication, hard work, passions, and embraces positive change, and personal growth.",
-    "contactmessage": "Hi, I am looking for a very fresh position in Frontend ReactJs and relevant. Especially, I would love to join a company with the model of remote working. Thank you in advance for any connections, advice, or opportunities you can offer. Hope to get your contact soon.",
+    "contactmessage": "Hi, I am looking for a very fresh position in the IT company and support the customer. Especially, I would love to join a company with the model of remote working. Thank you in advance for any connections, advice, or opportunities you can offer. Hope to get your contact soon.",
     "email": "mirohuyen5335@gmail.com",
     "phone": "+84 86 550 2848",
     "address": {
-      "city": "Dalat City, Vietnam"
+      "city": "Vinh City, Vietnam"
     },
     "social": [
       {
@@ -50,6 +50,12 @@
       }
     ],
     "work": [
+       {
+        "company": "Work at EduTech Company",
+        "title": "Mentor",
+        "years": "August 2022 - Present",
+        "description": "Be a mentor to guidance to students at a small age to approach Coding fundamentals."
+      },
       {
         "company": "Challenge myself to learn new skills from nothing",
         "title": "Learner",
@@ -71,7 +77,7 @@
 
       {
         "name": "HTML5",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "CSS",
@@ -123,7 +129,7 @@
         "user": "Ernest Hemingway"
       },
       {
-        "text": "I am 29 years old, the age that most people probably think is very difficult to learn something and start a new job. Yeah, I am not an expert, much less a person with special abilities. I just want to be here and start sharing about the journey of an ordinary person, someone who longs to be able to breathe in the alpine air or hear the waves crashing on the ocean right next to her desk.",
+        "text": "I am 30 years old, the age that most people probably think is very difficult to learn something and start a new job. Yeah, I am not an expert, much less a person with special abilities. I just want to be here and start sharing about the journey of an ordinary person, someone who longs to be able to stay anywhere where could bring happiness to me.",
         "user": "Miro Doan"
       }
     ]
